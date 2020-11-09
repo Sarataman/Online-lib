@@ -42,7 +42,7 @@ class Books extends Component {
 
   render() {
     return (
-      <div className="container">
+      <div>
         <Search bookSearch={this.bookSearch} handleSearch={this.handleSearch} />
         <BookList books={this.state.books} />
       </div>
