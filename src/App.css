@@ -86,7 +86,7 @@ h2 {
 }
 
 .container {
-  /* width: 660px; */
+  width: 660px;
   position: relative;
   margin: 0 auto;
 }
